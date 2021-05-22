@@ -14,3 +14,4 @@
 2. Get a list of random words
 3. You can find a database like [this one](https://github.com/dr5hn/countries-states-cities-database/blob/master/csv/cities.csv)
 4. Edit the file to only contain the information that you want to be searched and save it as a .txt
+5. `chrome.exe` must be changed to your default browser on line 37
